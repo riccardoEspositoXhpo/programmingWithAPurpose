@@ -22,6 +22,10 @@
       <module fileurl="file://$PROJECT_DIR$/44st/44st.iml" filepath="$PROJECT_DIR$/44st/44st.iml" />
       <module fileurl="file://$PROJECT_DIR$/45graph/45graph.iml" filepath="$PROJECT_DIR$/45graph/45graph.iml" />
       <module fileurl="file://$PROJECT_DIR$/IntroCS.iml" filepath="$PROJECT_DIR$/IntroCS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/arrays.iml" filepath="$PROJECT_DIR$/arrays/arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercises/exercises.iml" filepath="$PROJECT_DIR$/exercises/exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello/hello.iml" filepath="$PROJECT_DIR$/hello/hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loops/loops.iml" filepath="$PROJECT_DIR$/loops/loops.iml" />
     </modules>
   </component>
 </project>
